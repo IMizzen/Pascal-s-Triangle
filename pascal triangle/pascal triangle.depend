@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1651363588 source:c:\users\win10\desktop\code blocks\projects\pascal triangle\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+
